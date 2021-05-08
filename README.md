@@ -1,1 +1,1 @@
-![a background](https://github.com/sevora/sevora/raw/master/assets/bg-art.jpg)
+![a background](https://github.com/sevora/sevora/raw/main/assets/bg-art.jpg)
