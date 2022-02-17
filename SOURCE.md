@@ -145,10 +145,10 @@
 
 <h2>My Best Works 🏆</h2>
 <h3>STMVIZ 💍</h3>
-<div>Stable-Marriage Algorithm Visualizer written for AlgoExpert SWE Project Contest of Summer-Fall 2020. Try it out <a href="https://stmviz.herokuapp.com/">here</a>. You can also watch the 1-min trailer on<a href="https://youtu.be/yxNn02h3MzI">YouTube</a>.</div>
+<div>Stable-Marriage Algorithm Visualizer written for AlgoExpert SWE Project Contest of Summer-Fall 2020. Try it out <a href="https://stmviz.herokuapp.com/">here</a>. You can also watch the 1-min trailer on <a href="https://youtu.be/yxNn02h3MzI">YouTube</a>.</div>
 
 <h3>Paramour ❤️</h3>
-<div>A matchmaking website that utilizes QR codes to store user-data. Try it out <a href="https://paraour.herokuapp.com/">here</a>.</div>
+<div>A matchmaking website that utilizes QR codes to store user-data. Try it out <a href="https://paramour.herokuapp.com/">here</a>.</div>
 
 <h3>Cell Theory Timeline 🔬</h3>
 <div>Scroll up or down to move to the next part. See it <a href="https://sevora.github.io/cell-theory-timeline/index.html">here</a></div>
