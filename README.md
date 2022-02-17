@@ -25,6 +25,8 @@
 <h3>Privated 🔒</h3>
 <div>I also have privated repositories of fully-functional websites which I have plans to sell. At the same time these kind of large projects provided me with a lot of experience.</div>
 
+<h2>README Note ☹️</h2>
+<div>Github Flavored Markdown sucks. Really. It is too limiting and restrictive. The actual Markdown I made for this is on <a href="SOURCE.md">SOURCE.md</a> and there you would see what I actually intended for the design.</div>
 <h2>Awesome Art by TenaceTracks</h2>
 <div><a href="https://twitter.com/TenaceTracks">@TenaceTracks</a> is a friend of mine and he makes pretty amazing digital art.</div>
 
