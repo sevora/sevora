@@ -1,3 +1,18 @@
+---
+title: Sevora
+author: Ralph Louis Gopez
+description: Hi, I'm a developer!
+
+og-author: Ralph Louis Gopez
+og-image: https://sevora.pages.dev/banner.jpg
+og-description: Hi, I'm a developer!
+og-type: website
+og-url: https://sevora.pages.dev
+og-site_name: Sevora
+
+twitter-card: summary_large_image
+twitter-image-alt: Sevora
+---
 <style>
     .hello.gif {
         background-color: transparent;
@@ -6,11 +21,10 @@
 
     .hero {
         width: auto; 
-        height: 150px; 
+        min-height: 150px; 
         background-color: #642cbf; 
 
-        padding-top: 20px; 
-        padding-left: 70px; 
+        padding: 20px;
         
         border-radius: 20px;
     }
@@ -23,11 +37,11 @@
 
     .h1 {
         font-weight: 500;
-        font-size: 4em;
+        font-size: 3.5em;
     }
 
     .h2 {
-        font-size: 2em;
+        font-size: 2.5em;
     }
 
     .switch-text {
@@ -94,6 +108,22 @@
         display: inline-block;
         font-size: 1em;
         vertical-align: middle;
+    }
+
+    @media(min-width:600px)  {
+        .hero {
+            padding-top: 20px; 
+            padding-left: 70px; 
+        }
+
+        .h1 {
+            font-weight: 500;
+            font-size: 4em;
+        }
+
+        .h2 {
+            font-size: 2em;
+        }
     }
 </style>
 
