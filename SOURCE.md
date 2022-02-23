@@ -10,6 +10,9 @@ og-type: website
 og-url: https://sevora.pages.dev
 og-site_name: Sevora
 
+twitter-title: Sevora
+twitter-description: Hi, I'm a developer!
+twitter-image: https://sevora.pages.dev/banner.jpg
 twitter-card: summary_large_image
 twitter-image-alt: Sevora
 ---
