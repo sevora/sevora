@@ -125,6 +125,12 @@ twitter-image-alt: Sevora
             font-size: 2em;
         }
     }
+
+    @media (prefers-color-scheme: dark) {
+        body {
+            background-color: #24292f;
+        }
+    }
 </style>
 
 <div class="hero">
