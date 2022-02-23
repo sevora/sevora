@@ -50,6 +50,7 @@ function main() {
     
     // We wrap everything in an article tag as recommended.
     let articleWrapper = $('<article style="margin: 20px" class="markdown-body"></article>').append($('body').html());
+    $('body').addClass('markdown-body').attr('style', 'padding-top: 20px');
     $('body').children().remove();
     $('body').append(articleWrapper);
 
