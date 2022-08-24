@@ -1,4 +1,4 @@
-<img width="100%" src="components/hero.svg">
+<img width="100%" src="assets/README/hero.svg">
 
 <h2>Technologies I'm Great At 💻</h2>
 <ul>
@@ -33,4 +33,4 @@
 <h2>Awesome Art by TenaceTracks</h2>
 <div><a href="https://twitter.com/TenaceTracks">@TenaceTracks</a> is a friend of mine and he makes pretty amazing digital art.</div>
 
-<img src="https://github.com/sevora/sevora/raw/main/assets/bg-art.jpg">
+<img src="assets/README/bg-art.jpg">
