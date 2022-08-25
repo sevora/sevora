@@ -1,5 +1,8 @@
 <img width="100%" src="assets/README/hero.svg">
 
+<h2>Portfolio</h2>
+Check out my fancy portfolio <a href="https://sevora.github.io/portfolio/">here.</a>
+
 <h2>Technologies I'm Great At 💻</h2>
 <ul>
     <li><a href="https://www.javascript.com/" target="_blank">Javascript (ES6)</a></li>
