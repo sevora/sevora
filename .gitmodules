@@ -1,0 +1,12 @@
+[submodule "vim-setup/vim/pack/dist/start/vim-airline"]
+	path = vim-setup/vim/pack/dist/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline
+[submodule "vim-setup/vim/pack/dist/start/nerdtree"]
+	path = vim-setup/vim/pack/dist/start/nerdtree
+	url = https://github.com/preservim/nerdtree
+[submodule "vim-setup/vim/pack/vim-javascript"]
+	path = vim-setup/vim/pack/vim-javascript
+	url = https://github.com/pangloss/vim-javascript
+[submodule "vim-setup/vim/pack/vim-jsx-pretty"]
+	path = vim-setup/vim/pack/vim-jsx-pretty
+	url = https://github.com/MaxMEllon/vim-jsx-pretty.git
