@@ -9,6 +9,7 @@ Check out my fancy portfolio <a href="https://sevora.github.io/portfolio/">here.
     <li><a href="https://www.python.org/" target="_blank">Python 3</a></li>
     <li><a href="https://gruntjs.com/" target="_blank">Grunt</a></li>
     <li><a href="https://reactjs.org/" target="_blank">React</a></li>
+    <li><a href="https://redux.js.org/" target="_blank">Redux</a></li>
     <li><a href="https://nodejs.org/" target="_blank">Node.js</a></li>
 </ul>
 
