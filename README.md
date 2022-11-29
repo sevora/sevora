@@ -33,7 +33,7 @@ Check out my fancy portfolio <a href="https://sevora.github.io/portfolio/">here.
 <div>Scroll up or down to move to the next part. See it <a href="https://sevora.github.io/cell-theory-timeline/index.html">here</a></div>
 
 <h3>AspirePH 🩺</h3>
-<div>This is not my work exactly. This project was done in collaboration with an amazing team from De La Salle University. It estimates the risks of getting the virus through a simple and easy test. Try it <a href="https://aspireph.herokuapp.com">here</a><div>
+<div>This is not my work exactly. This project was done in collaboration with an amazing team from De La Salle University. It estimates the risks of getting the virus through a simple and easy test. See source code <a href="https://github.com/sevora/covid-risk-estimator">here</a>.<div>
 <h2>Awesome Art by TenaceTracks</h2>
 <div><a href="https://twitter.com/TenaceTracks">@TenaceTracks</a> is a friend of mine and he makes pretty amazing digital art.</div>
 <img src="assets/README/bg-art.jpg">
