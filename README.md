@@ -21,7 +21,7 @@ Check out my fancy portfolio <a href="https://sevora.github.io/portfolio/">here.
 <div>This is an anonymous one-to-one debate website where people can choose between opinions and get matched with someone of a different opinion than them. You can try it on <a href="https://www.deebait.space">https://www.deebait.space</a>.</div>
 
 <h3>STMVIZ 💍</h3>
-<div>Stable-Marriage Algorithm Visualizer written for AlgoExpert SWE Project Contest of Summer-Fall 2020. Try it out <a href="https://stmviz.herokuapp.com/">here</a>. You can also watch the 1-min trailer on <a href="https://youtu.be/yxNn02h3MzI">YouTube</a>.</div>
+<div>Stable-Marriage Algorithm Visualizer written for AlgoExpert SWE Project Contest of Summer-Fall 2020. Try it out <a href="https://sevora.github.io/stmviz/">here</a>. You can also watch the 1-min trailer on <a href="https://youtu.be/yxNn02h3MzI">YouTube</a>.</div>
 
 <h3>Gamebreaker 🎮</h3>
 <div>A collection of interactive pages and scripts with algorithms to solve different classic games. It's a great way to learn more about mathematics, game theory, and other computer science concepts. Check it out <a href="https://sevora.github.io/gamebreaker">here</a>.</div>
