@@ -7,10 +7,10 @@ Check out my fancy portfolio <a href="https://sevora.github.io/portfolio/">here.
 <ul>
     <li><a href="https://www.javascript.com/" target="_blank">Javascript (ES6)</a></li>
     <li><a href="https://www.python.org/" target="_blank">Python 3</a></li>
+    <li><a href="https://nodejs.org/" target="_blank">Node.js</a></li>
     <li><a href="https://gruntjs.com/" target="_blank">Grunt</a></li>
     <li><a href="https://reactjs.org/" target="_blank">React</a></li>
     <li><a href="https://redux.js.org/" target="_blank">Redux</a></li>
-    <li><a href="https://nodejs.org/" target="_blank">Node.js</a></li>
 </ul>
 
 <h2>Need Something Done 🤔</h2>
@@ -26,11 +26,8 @@ Check out my fancy portfolio <a href="https://sevora.github.io/portfolio/">here.
 <h3>Gamebreaker 🎮</h3>
 <div>A collection of interactive pages and scripts with algorithms to solve different classic games. It's a great way to learn more about mathematics, game theory, and other computer science concepts. Check it out <a href="https://sevora.github.io/gamebreaker">here</a>.</div>
 
-<h3>Paramour ❤️</h3>
-<div>A matchmaking website that utilizes QR codes to store user-data. Try it out <a href="https://paramour.herokuapp.com/">here</a>.</div>
-
 <h3>Cell Theory Timeline 🔬</h3>
-<div>Scroll up or down to move to the next part. See it <a href="https://sevora.github.io/cell-theory-timeline/index.html">here</a></div>
+<div>Scroll up or down to move to the next part. See it <a href="https://sevora.github.io/cell-theory-timeline/index.html">here</a>.</div>
 
 <h3>AspirePH 🩺</h3>
 <div>This is not my work exactly. This project was done in collaboration with an amazing team from De La Salle University. It estimates the risks of getting the virus through a simple and easy test. See source code <a href="https://github.com/sevora/covid-risk-estimator">here</a>.<div>
