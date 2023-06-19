@@ -27,13 +27,13 @@ Check out my fancy portfolio <a href="https://sevora.github.io/portfolio/">here.
 <div>A collection of interactive pages and scripts with algorithms to solve different classic games. It's a great way to learn more about mathematics, game theory, and other computer science concepts. Check it out <a href="https://sevora.github.io/gamebreaker">here</a>. Currently stale, but I hope to at least add at least 10-20 more game.</div>
 
 <h3>Simple Calculator 🔢</h3>
-<div>Well, knowing how to code is one thing, structuring a project is another. I made this desktop application with Java as a way to test out my skills and learn more about organizing code and making something that's easy to modify and maintain.</div>
+<div>Well, knowing how to code is one thing, structuring a project is another. I made this desktop application with Java as a way to test out my skills and learn more about organizing code and making something that's easy to modify and maintain. Download it  <a href="https://github.com/sevora/simple-calculator/releases/tag/v2.0.0">here</a>. Check out the source code <a href="https://github.com/sevora/simple-calculator">here</a>.</div>
 
 <h3>Cell Theory Timeline 🔬</h3>
 <div>I made this because I didn't want to use a powerpoint for my high school presentation. Scroll up or down to move to the next part. See it <a href="https://sevora.github.io/cell-theory-timeline/index.html">here</a>.</div>
 
 <h3>Deebait.space 🗣️</h3>
-<div>This is an anonymous one-to-one debate website where people can choose between opinions and get matched with someone of a different opinion than them. This is more of a practice working on fullstack.</div>
+<div>This is an anonymous one-to-one debate website where people can choose between opinions and get matched with someone of a different opinion than them. This is more of a practice working on fullstack. Check out the source code <a href="https://github.com/sevora/deebait">here</a>.</div>
 
 <h3>Fairu 🎓</h3>
 <div>This is built similar to Deebait.space. I wanted to make a file archiving website mainly for materials related to school or education. It didn't take off but the source code is <a href="https://github.com/sevora/fairu">here</a>.</div>
