@@ -18,7 +18,7 @@ Check out my fancy portfolio <a href="https://sevora.github.io/portfolio/">here.
 
 <h2>Projects I Made 🏆</h2>
 <h3>Deebait.space 🗣️</h3>
-<div>This is an anonymous one-to-one debate website where people can choose between opinions and get matched with someone of a different opinion than them. You can try it on <a href="https://www.deebait.space">https://www.deebait.space</a>.</div>
+<div>This is an anonymous one-to-one debate website where people can choose between opinions and get matched with someone of a different opinion than them.
 
 <h3>STMVIZ 💍</h3>
 <div>Stable-Marriage Algorithm Visualizer written for AlgoExpert SWE Project Contest of Summer-Fall 2020. Try it out <a href="https://sevora.github.io/stmviz/">here</a>. You can also watch the 1-min trailer on <a href="https://youtu.be/yxNn02h3MzI">YouTube</a>.</div>
