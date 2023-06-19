@@ -23,8 +23,11 @@ Check out my fancy portfolio <a href="https://sevora.github.io/portfolio/">here.
 <h3>Deebait.space 🗣️</h3>
 <div>This is an anonymous one-to-one debate website where people can choose between opinions and get matched with someone of a different opinion than them. This is more of a practice working on fullstack.</div>
 
-<h3>Fairu🎓</h3>
+<h3>Fairu 🎓</h3>
 <div>This is built similar to Deebait.space. I wanted to make a file archiving website mainly for materials related to school or education. It didn't take off but the source code is <a href="https://github.com/sevora/fairu">here</a>.</div>
+
+<h3>Artgrid 🎨</h3>
+<div>A set of python scripts that allows one to make a large image that when zoomed in is made up of smaller distinct images. It's not the most optimized version but it works.</div>
 
 <h3>Gamebreaker 🎮</h3>
 <div>A collection of interactive pages and scripts with algorithms to solve different classic games. It's a great way to learn more about mathematics, game theory, and other computer science concepts. Check it out <a href="https://sevora.github.io/gamebreaker">here</a>. Currently stale, but I hope to at least add at least 10-20 more game.</div>
