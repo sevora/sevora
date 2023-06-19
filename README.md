@@ -5,10 +5,10 @@ Check out my fancy portfolio <a href="https://sevora.github.io/portfolio/">here.
 
 <h2>Technologies I'm Great At 💻</h2>
 <ul>
+    <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
     <li><a href="https://www.javascript.com/" target="_blank">Javascript (ES6)</a></li>
     <li><a href="https://www.python.org/" target="_blank">Python 3</a></li>
     <li><a href="https://nodejs.org/" target="_blank">Node.js</a></li>
-    <li><a href="https://gruntjs.com/" target="_blank">Grunt</a></li>
     <li><a href="https://reactjs.org/" target="_blank">React</a></li>
     <li><a href="https://redux.js.org/" target="_blank">Redux</a></li>
 </ul>
