@@ -1,20 +1,44 @@
-<img width="100%" src="assets/README/hero.svg">
+<h1>Hi I'm Sevora! 👋</h1>
 
-<h2>Portfolio</h2>
+<h2>Portfolio 💼</h2>
 Check out my portfolio <a href="https://sevora.github.io/portfolio/">here.</a>
 
-<h2>Technologies I'm Great At 💻</h2>
-<ul>
-    <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
-    <li><a href="https://www.javascript.com/" target="_blank">Javascript (ES6)</a></li>
-    <li><a href="https://www.python.org/" target="_blank">Python 3</a></li>
-    <li><a href="https://nodejs.org/" target="_blank">Node.js</a></li>
-    <li><a href="https://reactjs.org/" target="_blank">React</a></li>
-    <li><a href="https://redux.js.org/" target="_blank">Redux</a></li>
-</ul>
-
-<h2>Need Something Done 🤔</h2>
-<div>I'm open to requests and we can discuss the project you would like done. You could reach out to me via <a href="mailto:business.ralph.louis.gopez@gmail.com">email</a>, or <a href="https://twitter.com/ralphlouisgopez" target="blank_">Twitter</a> or commission me on <a href="https://www.fiverr.com/ralphlouisgopez" target="_blank">Fiverr</a>.</div>
+<h2 align="left">Technologies I'm Great At 💻</h2>
+<div align="right">
+  <img src="https://skillicons.dev/icons?i=aws" height="90" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="90" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="90" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="90" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="90" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="90" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=electron" height="90" alt="electron logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=haskell" height="90" alt="haskell logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="90" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="90" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="90" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="90" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="90" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="90" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tauri" height="90" alt="tauri logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="90" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="90" alt="vite logo"  />
+</div>
 
 <h2>Projects I Made 🏆</h2>
 <h3>STMVIZ 💍</h3>
@@ -40,6 +64,9 @@ Check out my portfolio <a href="https://sevora.github.io/portfolio/">here.</a>
 
 <h3>AspirePH 🩺</h3>
 <div>This project was done in collaboration with an amazing team from De La Salle University. It estimates the risks of getting the virus through a simple and easy test. See source code <a href="https://github.com/sevora/covid-risk-estimator">here</a>. It was hosted before but due to lack of support it isn't anymore.<div>
+
+<h2>Need Something Done 🤔</h2>
+<div>I'm open to requests and we can discuss the project you would like done. You could reach out to me via <a href="mailto:business.ralph.louis.gopez@gmail.com">email</a>, or <a href="https://twitter.com/ralphlouisgopez" target="blank_">Twitter</a> or commission me on <a href="https://www.fiverr.com/ralphlouisgopez" target="_blank">Fiverr</a>.</div>
 
 <h2>Awesome Art by TenaceTracks</h2>
 <div><a href="https://twitter.com/TenaceTracks">@TenaceTracks</a> is a friend of mine and he makes pretty amazing digital art.</div>
