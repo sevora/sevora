@@ -3,41 +3,41 @@
 <h2>Portfolio 💼</h2>
 Check out my portfolio <a href="https://sevora.github.io/portfolio/">here.</a>
 
-<h2 align="left">Technologies I'm Great At 💻</h2>
-<div align="right">
-  <img src="https://skillicons.dev/icons?i=aws" height="90" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="90" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="90" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="90" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="90" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="90" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=electron" height="90" alt="electron logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=haskell" height="90" alt="haskell logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="90" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="90" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="90" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="90" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="90" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="90" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tauri" height="90" alt="tauri logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="90" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="90" alt="vite logo"  />
+<h2>Technologies I'm Great At 💻</h2>
+<div>
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=electron" height="60" alt="electron logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=haskell" height="60" alt="haskell logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=tauri" height="60" alt="tauri logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=vite" height="60" alt="vite logo"  />
 </div>
 
 <h2>Projects I Made 🏆</h2>
