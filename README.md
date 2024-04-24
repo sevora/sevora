@@ -41,7 +41,7 @@ Check out my portfolio <a href="https://sevora.github.io/portfolio/">here.</a>
 </div>
 
 <h2>Projects I Made 🏆</h2>
-<h3><a href="https://github.com/sevora/ramble">Ramble</a></h3>
+<h3><a href="https://github.com/sevora/ramble">Ramble 📱</a></h3>
 <div>Ramble is a lightweight Twitter Clone structured in a simple, manageable, and extendable style. I made this primarily for a university project in our Computer Science Course and the goal is to be able to write a CRUD-application utilizing a SQL database management system. This is welcome to improvements and updates! Check out <a href="https://youtu.be/MHW0uYfY7Ho?si=w_kjMSEK58OMyYNX">this YouTube video</a> where I showcase ramble.</div>
 
 <h3><a href="https://github.com/sevora/stmviz">STMVIZ 💍</a></h3>
