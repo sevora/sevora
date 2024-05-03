@@ -54,7 +54,7 @@ Check out my portfolio <a href="https://sevora.github.io/portfolio/">here.</a>
 <div>I made this because I didn't want to use a powerpoint for my high school presentation. I felt that powerpoints were overused and boring. To navigate in this website, scroll up or down. See it <a href="https://sevora.github.io/cell-theory-timeline/index.html">here</a>.</div>
 
 <h2>Need Something Done 🤔</h2>
-<div>I'm open to requests and we can discuss the project you would like done. You could reach out to me via <a href="mailto:business.ralph.louis.gopez@gmail.com">email</a>, or <a href="https://twitter.com/ralphlouisgopez" target="blank_">Twitter</a> or commission me on <a href="https://www.fiverr.com/ralphlouisgopez" target="_blank">Fiverr</a>.</div>
+<div>I'm open to requests and we can discuss the project you would like done. You could reach out to me via <a href="mailto:business.ralph.louis.gopez@gmail.com">email</a>, or <a href="https://twitter.com/ralphlouisgopez" target="blank_">Twitter</a>.</div>
 
 <h2>Awesome Art by TenaceTracks</h2>
 <div><a href="https://twitter.com/TenaceTracks">@TenaceTracks</a> is a friend of mine and he makes pretty amazing digital art.</div>
