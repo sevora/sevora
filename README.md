@@ -1,8 +1,5 @@
 <h1>Hi I'm Sevora! 👋</h1>
 
-<h2>Portfolio 💼</h2>
-Check out my portfolio <a href="https://sevora.github.io/portfolio/">here.</a>
-
 <h2>Technologies I'm Great At 💻</h2>
 <div>
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
@@ -41,7 +38,10 @@ Check out my portfolio <a href="https://sevora.github.io/portfolio/">here.</a>
 </div>
 
 <h2>Projects I Made 🏆</h2>
-<h3><a href="https://github.com/sevora/bl0g">bl0g 👾</a></h3>
+<h3><a href="https://github.com/sevora/portfolio">Portfolio 💼</a></h3>
+<div>Check out my portfolio live <a href="https://sevora.github.io/portfolio/">here</a>. This is essentially a compilation of some of my works but in a nicer website and more personality. Written as a single page application with TypeScript.</a></div>
+
+<h3><a href="https://github.com/sevora/bl0g">bl0g.pro 👾</a></h3>
 <div>This is a blog site done as a project for one of my classes. It has some interesting special effects. Check it out <a href="https://bl0g.pro">here</a>. Written in TypeScript.</div>
 
 <h3><a href="https://github.com/sevora/ramble">Ramble 📱</a></h3>
