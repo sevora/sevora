@@ -41,6 +41,9 @@ Check out my portfolio <a href="https://sevora.github.io/portfolio/">here.</a>
 </div>
 
 <h2>Projects I Made 🏆</h2>
+<h3><a href="https://github.com/sevora/bl0g">bl0g 👾</a></h3>
+<div>This is a blog site done as a project for one of my classes. It has some interesting special effects. Check it out <a href="https://bl0g.pro">here</a>. Written in TypeScript.</div>
+
 <h3><a href="https://github.com/sevora/ramble">Ramble 📱</a></h3>
 <div>Ramble is a fullstack social media application structured in a simple, manageable, and extendable style. I made this primarily for a university project in our Computer Science Course and the goal is to be able to write a CRUD-application utilizing a SQL database management system. This is welcome to improvements and updates! Check out <a href="https://youtu.be/MHW0uYfY7Ho?si=w_kjMSEK58OMyYNX">this YouTube video</a> where I showcase ramble. This project was written with Node.js, TypeScript, React, Dart, and Flutter.</div>
 
