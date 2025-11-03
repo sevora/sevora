@@ -12,15 +12,25 @@
 
 Check out my portfolio [live here](https://sevora.github.io/portfolio/). A compilation of my works in a single-page application without using any additional frameworks. Developed with TypeScript and Vite.
 
-### [lsdweb.net](https://lsdweb.net)
-<a href="https://lsdweb.net"><img src="./assets/banners/lsdweb.jpg" alt="lsdweb.net" width="600" /></a>
+### [Cinelaya](https://cinelaya.com)
+<a href="https://cinelaya.com"><img src="./assets/banners/cinelaya.jpg" alt="cinelaya.com" width="600" /></a>
 
-A single-page application generator powered by OpenAI. Check it out [live here](https://lsdweb.net). The frontend was developed without using any frameworks and only native web technologies. The backend is written in TypeScript with Express. 
+A suite of tools to aid filmmakers bring their imagination into reality. This project, also a company, was founded by Gil Ponce. Take a look [here](https://cinelaya.com). I am the fullstack developer of the web application, and desktop software, continuously adding features and optimizations.
 
-### [bl0g.pro](https://bl0g.pro)
-<a href="https://bl0g.pro"><img src="./assets/banners/bl0g.jpg" alt="bl0g.pro" width="600" /></a>
+### [dibati.com](https://dibati.com)
+<a href="https://dibati.com"><img src="./assets/banners/dibati.jpg" alt="dibati.com" width="600" /></a>
 
-A site with interesting special effects. Check it out [live here](https://bl0g.pro). It is also a single-page application without using any frameworks. Originally done as a project for one of my classes. Developed with TypeScript and Vite.
+An anonymous debate chat application. Check it out [live here](https://dibati.com). The idea is that users with opposing ideas get matched. This site was designed to be scalable and performant loading almost instantaneously and working seamlessly even for hundreds of thousands of users. 
+
+### [Turn the Dial](https://story.ralphlouisgopez.com)
+<a href="https://story.ralphlouisgopez.com"><img src="./assets/banners/story.jpg" alt="story.ralphlouisgopez.com" width="600" /></a>
+
+A fun website that shows my personal story. It won't give off a professional vibe but rather something more homey. I used the theme of a watch as I like the concept of being able to show the past and the present. Check it out [here](https://story.ralphlouisgopez.com)
+
+### [bl0g.pro](https://github.com/sevora/bl0g)
+<a href="https://github.com/sevora/bl0g"><img src="./assets/banners/bl0g.jpg" alt="bl0g.pro" width="600" /></a>
+
+A site with interesting special effects. Not currently hosted but source code is in [a repository](https://github.com/sevora/bl0g). It is also a single-page application without using any frameworks. Originally done as a project for one of my classes. Developed with TypeScript and Vite.
 
 ### [stmviz](https://sevora.github.io/stmviz/)
 <a href="https://sevora.github.io/stmviz/"><img src="./assets/banners/stmviz.jpg" alt="stmviz" width="600" /></a>
@@ -31,6 +41,11 @@ Stable-Marriage Algorithm Visualizer developed for AlgoExpert SWE Project Contes
 <a href="https://github.com/sevora/simple-calculator"><img src="./assets/banners/simple-calculator.jpg" alt="simple-calculator" width="600" /></a>
 
 Knowing how to code is one thing, structuring a project is another. I made this desktop application with Java as a way to test out my skills and learn more about organizing code and making something that's easy to modify and maintain. Download it [here](https://github.com/sevora/simple-calculator/releases/tag/v2.0.0). This was developed with Java 11 + Maven and JavaFX.
+
+### [Code Journal](https://blog.ralphlouisgopez.com/)
+<a href="https://blog.ralphlouisgopez.com/"><img src="./assets/banners/blog.jpg" alt="blog.ralphlouisgopez.com" width="600" /></a>
+
+My actual blog site made via Jekyll. I post my experiences, thoughts, and stories here. If you're interested you could take a look at it [here](https://blog.ralphlouisgopez.com/).
 
 ## Need a Collaborator
 I'm open to requests for collaboration and we can discuss the project you're working on. You could reach out to me via [email](mailto:ralph.louis.g@gmail.com).
