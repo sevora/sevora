@@ -17,11 +17,6 @@ Check out my portfolio [live here](https://sevora.github.io/portfolio/). A compi
 
 A suite of tools to aid filmmakers bring their imagination into reality. This project, also a company, was founded by Gil Ponce. Take a look [here](https://cinelaya.com). I am the fullstack developer of the web application, and desktop software, continuously adding features and optimizations.
 
-### [dibati.com](https://dibati.com)
-<a href="https://dibati.com"><img src="./assets/banners/dibati.jpg" alt="dibati.com" width="600" /></a>
-
-An anonymous debate chat application. Check it out [live here](https://dibati.com). The idea is that users with opposing ideas get matched. This site was designed to be scalable and performant loading almost instantaneously and working seamlessly even for hundreds of thousands of users. 
-
 ### [Turn the Dial](https://story.ralphlouisgopez.com)
 <a href="https://story.ralphlouisgopez.com"><img src="./assets/banners/story.jpg" alt="story.ralphlouisgopez.com" width="600" /></a>
 
