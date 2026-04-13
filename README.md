@@ -17,6 +17,11 @@ Check out my portfolio [live here](https://sevora.github.io/portfolio/). A compi
 
 A suite of tools to aid filmmakers bring their imagination into reality. This project, also a company, was founded by Gil Ponce. Take a look [here](https://cinelaya.com). I am the fullstack developer of the web application, and desktop software, continuously adding features and optimizations.
 
+### [Kideae](https://kideae.com)
+<a href="https://kideae.com"><img src="./assets/banners/kideae.png" alt="kideae.com" width="600" /></a>
+
+An AI-powered whiteboard application that is private, local, and fully offline. It puts privacy and control first with all data staying on your device. Built with a flexible whiteboard system featuring markdown nodes, image nodes, and local AI processing. Check it out [here](https://kideae.com). I am the sole developer of this desktop application.
+
 ### [Turn the Dial](https://story.ralphlouisgopez.com)
 <a href="https://story.ralphlouisgopez.com"><img src="./assets/banners/story.jpg" alt="story.ralphlouisgopez.com" width="600" /></a>
 
